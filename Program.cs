@@ -13,6 +13,7 @@ namespace Test_Git
             Console.WriteLine("coucou");
             // blablablabla
             Console.WriteLine("cc");
+            Console.ReadLine();
         }
     }
 }
